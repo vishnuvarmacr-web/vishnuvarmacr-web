@@ -88,3 +88,6 @@ while True:
 **Let's build something meaningful.**
 
 </div>
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://ghstats.dev/api/card?username=vishnuvarmacr-web&bg=0D1117&text=E6EDF3&title_color=FF8A00&icon_color=FF8A00&border_color=30363D)
