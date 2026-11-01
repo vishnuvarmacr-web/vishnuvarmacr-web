@@ -7,7 +7,7 @@
 
 *Exploring the intersection of software engineering, AI and real-world problem solving.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuvarmacr-web)
 [![Learning](https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge)](#currently-learning)
 [![Profile](https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge)](#projects)
 
@@ -47,13 +47,13 @@ I'm currently exploring software development, artificial intelligence and the en
 
 A collection of ideas, experiments and things I'm working on.
 
-| Project | Description |
-|---|---|
-| 🤖 JARVIS AI Assistant | Exploring voice-controlled desktop automation and local AI. |
-| 🅿️ ParkWise | Intelligent parking recommendation system prototype. |
-| 📅 College Planner | Exploring timetable, calendar and academic progress management. |
+| Project | Description | Repository |
+|---|---|---|
+| 🤖 JARVIS AI Assistant | Exploring voice-controlled desktop automation and local AI. | _No public repository linked yet_ |
+| 🅿️ ParkWise | Intelligent parking recommendation system prototype. | _No public repository linked yet_ |
+| 📅 College Planner | Exploring timetable, calendar and academic progress management. | _No public repository linked yet_ |
 
-*More projects and improvements coming soon.*
+*Project names will become links when their public repositories are available.*
 
 ## 🧠 Currently Learning
 
@@ -63,6 +63,10 @@ A collection of ideas, experiments and things I'm working on.
 - Git and GitHub workflows
 - Artificial Intelligence and LLMs
 - Building and documenting software projects
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://ghstats.dev/api/card?username=vishnuvarmacr-web&bg=0D1117&text=E6EDF3&title_color=FF8A00&icon_color=FF8A00&border_color=30363D)
 
 ## 🎯 My Developer Philosophy
 
@@ -88,6 +92,3 @@ while True:
 **Let's build something meaningful.**
 
 </div>
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://ghstats.dev/api/card?username=vishnuvarmacr-web&bg=0D1117&text=E6EDF3&title_color=FF8A00&icon_color=FF8A00&border_color=30363D)
