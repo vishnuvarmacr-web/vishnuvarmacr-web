@@ -87,6 +87,37 @@ A collection of ideas, experiments and things I'm working on.
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=vishnuvarmacr-web&bg=0D1117&text=E6EDF3&title_color=FF8A00&icon_color=FF8A00&border_color=30363D)
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg">
+  <img alt="GitHub Overview" src="./assets/overview.dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg">
+  <img alt="GitHub Contributions" src="./assets/contributions.dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg">
+  <img alt="GitHub Languages" src="./assets/languages.dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/repositories.light.svg">
+  <img alt="GitHub Repositories" src="./assets/repositories.dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rhythm.light.svg">
+  <img alt="GitHub Activity Rhythm" src="./assets/rhythm.dark.svg" width="100%">
+</picture>
 
 ## 🎯 My Developer Philosophy
 
