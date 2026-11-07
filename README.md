@@ -86,7 +86,6 @@ A collection of ideas, experiments and things I'm working on.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://ghstats.dev/api/card?username=vishnuvarmacr-web&bg=0D1117&text=E6EDF3&title_color=FF8A00&icon_color=FF8A00&border_color=30363D)
 <h2 align="center">📊 GITHUB DASHBOARD</h2>
 
 <picture>
