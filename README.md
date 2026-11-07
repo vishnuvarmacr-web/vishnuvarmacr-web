@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 <img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
-     width="180"
+     width="240"
      alt="Vishnu Varma Pixel Avatar">
 </td>
 <td align="left" valign="middle">
