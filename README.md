@@ -36,7 +36,6 @@
 `[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
 
 </div>
----
 
 ## 🧑‍💻 About Me
 
