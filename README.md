@@ -1,37 +1,42 @@
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-    <img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
-         width="200"
-         alt="Vishnu Varma Pixel Avatar">
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+<img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
+     width="200"
+     alt="Vishnu Varma Pixel Avatar">
+</td>
 
-    <div align="left">
+<td align="left" valign="middle">
 
-      <h1>⚡ VISHNU VARMA</h1>
+<h1>⚡ VISHNU VARMA</h1>
 
-      <h3>Curious Mind. Creative Builder. Future Engineer.</h3>
+<h3>Curious Mind. Creative Builder. Future Engineer.</h3>
 
-      <p>Exploring the intersection of software engineering,<br>
-      AI and real-world problem solving.</p>
+<p>Exploring the intersection of software engineering, AI and real-world problem solving.</p>
 
-      <p>
-        <a href="https://github.com/vishnuvarmacr-web">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="#currently-learning">
-          <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge">
-        </a>
-        <a href="#projects">
-          <img src="https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge">
-        </a>
-      </p>
+<p>
+<a href="https://github.com/vishnuvarmacr-web">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="#currently-learning">
+<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge">
+</a>
+<a href="#projects">
+<img src="https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge">
+</a>
+</p>
 
-      `[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
+`[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
 
-    </div>
-  </div>
+</td>
+</tr>
+</table>
+
 </div>
+
 
 
 ## 🧑‍💻 About Me
