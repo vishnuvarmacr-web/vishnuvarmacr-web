@@ -9,7 +9,7 @@
 </td>
 <td align="left" valign="middle">
 
-<h1>VISHNU VARMA</h1>
+<h1> ⚡VISHNU VARMA</h1>
 
 <h3>Curious Mind. Creative Builder. Future Engineer.</h3>
 
