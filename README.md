@@ -1,5 +1,19 @@
  
 <div align="center">
+<div align="center">
+
+<img src="./assets/vishnu-pixel-avatar.jpg"
+     width="160"
+     alt="Vishnu Varma Pixel Avatar"
+     style="border-radius: 50%;">
+
+### `01010110 01001001 01010011 01001000 01001110 01010101`
+
+# VISHNU VARMA
+
+`[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
+
+</div>
 
 # ⚡ VISHNU VARMA
 
