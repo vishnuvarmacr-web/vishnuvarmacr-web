@@ -1,14 +1,7 @@
  
 <div align="center">
-<div align="center">
 
-<img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
-     width="180"
-     alt="Vishnu Varma Pixel Avatar">
-
-</div>
-
-# ⚡ VISHNU VARMA
+# ⚡ VISHNU VARMA ⚡
 
 ### `Curious Mind. Creative Builder. Future Engineer.`
 
@@ -17,6 +10,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuvarmacr-web)
 [![Learning](https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge)](#currently-learning)
 [![Profile](https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge)](#projects)
+
+</div>
+<div align="center">
+
+<img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
+     width="180"
+     alt="Vishnu Varma Pixel Avatar">
 
 </div>
 
