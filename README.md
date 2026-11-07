@@ -1,39 +1,38 @@
- <div align="center">
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-<img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
-     width="240"
-     alt="Vishnu Varma Pixel Avatar">
-</td>
-<td align="left" valign="middle">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-<h1> ⚡VISHNU VARMA</h1>
+    <img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
+         width="200"
+         alt="Vishnu Varma Pixel Avatar">
 
-<h3>Curious Mind. Creative Builder. Future Engineer.</h3>
+    <div align="left">
 
-<p>Exploring the intersection of software engineering, AI and real-world problem solving.</p>
+      <h1>⚡ VISHNU VARMA</h1>
 
-<p>
-<a href="https://github.com/vishnuvarmacr-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="#currently-learning">
-<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge">
-</a>
-<a href="#projects">
-<img src="https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge">
-</a>
-</p>
+      <h3>Curious Mind. Creative Builder. Future Engineer.</h3>
 
-</td>
-</tr>
-</table>
+      <p>Exploring the intersection of software engineering,<br>
+      AI and real-world problem solving.</p>
 
-`[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
+      <p>
+        <a href="https://github.com/vishnuvarmacr-web">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="#currently-learning">
+          <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge">
+        </a>
+        <a href="#projects">
+          <img src="https://img.shields.io/badge/Building-In%20Public-success?style=for-the-badge">
+        </a>
+      </p>
 
+      `[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]`
+
+    </div>
+  </div>
 </div>
+
 
 ## 🧑‍💻 About Me
 
@@ -83,8 +82,6 @@ A collection of ideas, experiments and things I'm working on.
 - Git and GitHub workflows
 - Artificial Intelligence and LLMs
 - Building and documenting software projects
-
-## 📊 GitHub Statistics
 
 <h2 align="center">📊 GITHUB DASHBOARD</h2>
 
