@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
-<img src="./assets/Pixel-Art%20Avatar%20with%20Reflective%20Sunglasses.png"
+<img src="./assets/Retro Pixel Portrait in Sunglasses (1).png"
      width="200"
      alt="Vishnu Varma Pixel Avatar">
 </td>
