@@ -4,8 +4,8 @@
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
-<img src="./assets/Retro Pixel Portrait in Sunglasses (1).png"
-     width="200"
+<img src="./assets/Retro_Pixel_Portrait_in_Sunglasses__1_-removebg-preview.png"
+     width="350"
      alt="Vishnu Varma Pixel Avatar">
 </td>
 
