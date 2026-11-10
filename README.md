@@ -45,11 +45,11 @@ Hey! I'm **Vishnu Varma**, a Computer Science student passionate about understan
 
 I'm currently exploring software development, artificial intelligence and the engineering behind modern applications.
 
-- 💻 Learning programming through hands-on practice.
-- 🤖 Exploring Artificial Intelligence and LLM engineering.
-- 🛠️ Interested in building useful, real-world applications.
-- 🌱 Improving my problem-solving and development skills.
-- 🚀 Working towards becoming a better software engineer every day.
+-  Learning programming through hands-on practice.
+-  Exploring Artificial Intelligence and LLM engineering.
+-  Interested in building useful, real-world applications.
+-  Improving my problem-solving and development skills.
+-  Working towards becoming a better software engineer every day.
 
 > I don't just want to use technology. I want to understand it, build it and improve it.
 
