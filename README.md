@@ -39,7 +39,7 @@
 
 
 
-## 🧑‍💻 About Me
+##  About Me
 
 Hey! I'm **Vishnu Varma**, a Computer Science student passionate about understanding how technology works and turning ideas into practical solutions.
 
@@ -53,7 +53,7 @@ I'm currently exploring software development, artificial intelligence and the en
 
 > I don't just want to use technology. I want to understand it, build it and improve it.
 
-## ⚙️ Tech Stack & Exploration
+##  Tech Stack & Exploration
 
 **Programming**
 
@@ -67,7 +67,7 @@ I'm currently exploring software development, artificial intelligence and the en
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 🚀 Projects
+##  Projects
 
 A collection of ideas, experiments and things I'm working on.
 
@@ -79,7 +79,7 @@ A collection of ideas, experiments and things I'm working on.
 
 *Project names will become links when their public repositories are available.*
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - C Programming and problem solving
 - Python development
@@ -120,7 +120,7 @@ A collection of ideas, experiments and things I'm working on.
   <img alt="GitHub Activity Rhythm" src="./assets/rhythm.dark.svg" width="100%">
 </picture>
 
-## 🎯 My Developer Philosophy
+##  My Developer Philosophy
 
 ```python
 while True:
